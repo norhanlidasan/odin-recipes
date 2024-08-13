@@ -12,6 +12,7 @@ h1{
 a {
   color: #f4c95d;
   font-size: 40px;
+  text-decoration: none;
 }
 
 .head, .list {
